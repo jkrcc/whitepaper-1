@@ -2,7 +2,6 @@
 ### <div align=center></div> 
 ## <div align=center>最安全的去中心化电子现金体系</div>
 ### <div align=center>v1.0</div>
-#### <div align=center><img src="./images/wabei.png" width = "256" height = "59" ></div>
 ### <div align=center>**Github**:[https://github.com/wabei](https://github.com/wabei)</div>
 
 ### <div align=center>2018年7月</div>  
@@ -92,9 +91,6 @@
 ### 1.2 算力集中化  
   
 理论上，个人或单个组织很难拥有比全网更多的算力来破坏比特币系统的运行。但由于市场原因（大矿池的收益相对来说更加稳定，小矿池的收益往往显示出很大的波动性）以及比特币ASICs矿机的流行，算力集中化趋势不可避免，资本有实力也有意愿去构建大型矿池。目前全球前三大矿池占据了全网约 48%的算力。  
-  
-#### <div align=center>![](https://pan.baidu.com/disk/home?#/all?vmode=list&path=%2F%E7%93%A6%E8%B4%9D)</div>  
-# <div align=center h4>比特币算力分布</div>  
   
 更严重的事故发生在2013年11月,比特币矿池GHash.io对赌博网站BetCoin Dice进行多次付款欺诈。康奈尔大学研究表明，自2014年，6月3日以来，GHash已经达成了至少5次超过51%的加密散列运算量。在其中某个时期，这一过程甚至持续了12个小时。   
    
